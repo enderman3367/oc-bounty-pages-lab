@@ -1,0 +1,3 @@
+docs/subdir/symlink-inside-docs.txt -> ../in-docs.txt
+docs/symlink-outside-docs.txt -> ../outside/should-not-publish.txt
+docs/symlink-absolute-hostname.txt -> /etc/hostname
